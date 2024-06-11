@@ -29,6 +29,7 @@ pip3 install numpy opencv-python
 
 v4l2-ctl --list-devices
 or
+
  fswebcam to capture an image:
   
   fswebcam test_image.jpg
