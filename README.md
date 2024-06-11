@@ -1,6 +1,8 @@
 # USB-camera-using-raspberrypi3
 To get live feed us from USB camera using raspberrypi3 
+
 Installation of usbcamera on pi3
+
 1)Update and upgrade:
 
 sudo apt-get update
