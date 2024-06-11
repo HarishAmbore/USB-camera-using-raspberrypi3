@@ -40,8 +40,6 @@ or
 
 import cv2
 
-# Open the default camera
-
 cap = cv2.VideoCapture(0)
 
 if not cap.isOpened():
